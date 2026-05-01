@@ -30,3 +30,6 @@ p {
 body {
     padding: 15px;
 }
+img {
+    border-radius: 8px;
+}
