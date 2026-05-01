@@ -27,3 +27,6 @@ img {
 p {
     line-height: 1.6;
 }
+body {
+    padding: 15px;
+}
